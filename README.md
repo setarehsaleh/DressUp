@@ -1,5 +1,5 @@
 # DressUp
-## a wensite
+## a website
 ### no really it is 
 
 This **repository** contains the files for m test website.
